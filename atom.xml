@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://EdAlpha.github.io/atom.xml" rel="self"/>
+  <link href="http://EdAlpha.github.io/"/>
+  <updated>2013-09-10T17:45:11+08:00</updated>
+  <id>http://EdAlpha.github.io/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[test post]]></title>
+    <link href="http://EdAlpha.github.io/blog/2013/09/10/test-post/"/>
+    <updated>2013-09-10T17:44:00+08:00</updated>
+    <id>http://EdAlpha.github.io/blog/2013/09/10/test-post</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[This is a begining.]]></title>
+    <link href="http://EdAlpha.github.io/blog/2013/09/10/this-is-a-begining/"/>
+    <updated>2013-09-10T17:11:00+08:00</updated>
+    <id>http://EdAlpha.github.io/blog/2013/09/10/this-is-a-begining</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>
