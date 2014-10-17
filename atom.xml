@@ -4,7 +4,7 @@
   <title><![CDATA[iAlpha]]></title>
   <link href="http://edalpha.github.io/atom.xml" rel="self"/>
   <link href="http://edalpha.github.io/"/>
-  <updated>2014-10-17T12:46:51+08:00</updated>
+  <updated>2014-10-17T14:24:25+08:00</updated>
   <id>http://edalpha.github.io/</id>
   <author>
     <name><![CDATA[Alpha Lin]]></name>
@@ -12,5 +12,22 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Hello World]]></title>
+    <link href="http://edalpha.github.io/blog/2014/10/17/hello-world/"/>
+    <updated>2014-10-17T13:41:39+08:00</updated>
+    <id>http://edalpha.github.io/blog/2014/10/17/hello-world</id>
+    <content type="html"><![CDATA[<p>不小心又拖了一年
+終於工作上有了空檔 可以偷一點時間出來把筆記寫起來
+現在的工作主要是負責戶外廣告(Out-of-home advertising)的軟硬體整合
+所以多數的分享都會專注在 Arduino 等微控制器相關的內容
+有空的時候也希望以簡單快速的原型實作來增加經驗值</p>
+
+<p>最後 為了怕自己懶惰
+以後至少一週要來更新一次
+一個月要產出一組硬體測試原型</p>
+]]></content>
+  </entry>
   
 </feed>
